@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ксилофон-рингтон</string>
+    <string name="subtitle">Любая песня — в рингтон с ксилофоном, как на iPhone</string>
+    <string name="pick_song">Выбрать песню</string>
+    <string name="no_file">Файл не выбран</string>
+    <string name="length_title">Длина рингтона</string>
+    <string name="sec15">15 с</string>
+    <string name="sec20">20 с</string>
+    <string name="sec30">30 с</string>
+    <string name="auto_start">Само найти самый яркий фрагмент</string>
+    <string name="make">Сделать рингтон</string>
+    <string name="play">▶  Прослушать</string>
+    <string name="stop">■  Стоп</string>
+    <string name="save">Сохранить в «Рингтоны»</string>
+    <string name="set_default">Поставить на звонок</string>
+</resources>
